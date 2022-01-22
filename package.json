@@ -1,0 +1,20 @@
+{
+  "name": "import-esm-sync",
+  "version": "0.1.0-alpha.22",
+  "description": "import ESModule synchronously",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [ "esmodule", "esm", "import", "require", "dynamic", "sync", "deasync" ],
+  "repository": "https://github.com/kage-sakura/import-esm-sync",
+  "author": "kage-sakura",
+  "license": "MIT",
+  "dependencies": {
+    "parent-file-path": "^0.1.6",
+    "promise-information": "^0.1.6"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
